@@ -1,7 +1,5 @@
-﻿# Aptos_Node_Indexing
-# Project Name
 
-Aptos Blockchain Indexing
+# Aptos Blockchain Indexing
 
 ## Description
 
@@ -52,7 +50,7 @@ No additional configuration is required for this project.
 1. Clone the repository:
 
 ```shell
-git clone <repository_url>
+git clone [<repository_url>](https://github.com/sscodez/Aptos_Node_Indexing)
 ```
 
 2. Install the required dependencies:
