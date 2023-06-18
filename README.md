@@ -5,9 +5,6 @@
 
 This project provides an API to retrieve data from the Aptos Blockchain. It allows users to access coin activities, token activities, and user transactions. The API utilizes the Aptos Labs Indexer to fetch the data and returns it in a JSON format.
 
-## Configuration
-
-No additional configuration is required for this project.
 
 ## API Routes
 
